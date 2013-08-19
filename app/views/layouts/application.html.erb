@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cards</title>
+  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<script>
+  $(document).ready(function (){
+    $("#meaning").hide();
+    $("#card").click(function () {
+      $("#meaning").show("fast");
+    });
+  });
+</script>
+
+<%= yield %>
+
+</body>
+</html>

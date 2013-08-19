@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<div id=card>
+  <h1 id="term">
+    <%= @card.term %>
+  </h1>
+
+  <h4 id="meaning">
+    <%= @card.meaning %>
+  </h4>
+</div>
+
+<p>
+  <%= @card.done %>
+</p>
+
+<p>
+  <%= link_to "Next", root_path %>
+</p>
