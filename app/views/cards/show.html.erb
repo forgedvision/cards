@@ -1,19 +1,11 @@
-<p id="notice"><%= notice %></p>
-
-<div id=card>
-  <h1 id="term">
+<div id="card">
+  <h2 id="term">
     <%= @card.term %>
-  </h1>
-
+  </h2>
   <h4 id="meaning">
     <%= @card.meaning %>
   </h4>
 </div>
+ <a data-role="button" data-inline="true" data-theme="a" href="/" data-icon="check" data-iconpos="left">Done</a>
+ <a data-role="button" data-inline="true" data-theme="a" href="/" data-icon="arrow-r" data-iconpos="right">Next</a>
 
-<p>
-  <%= @card.done %>
-</p>
-
-<p>
-  <%= link_to "Next", root_path %>
-</p>

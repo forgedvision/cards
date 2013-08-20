@@ -3,7 +3,7 @@ body {
   color: #333;
   font-family: verdana, arial, helvetica, sans-serif;
   font-size: 13px;
-  line-height: 18px;
+  /*line-height: 18px;*/
 }
 
 p, ol, ul, td {
@@ -39,10 +39,18 @@ div {
   color: green;
 }
 
+h2 {
+  font-family: 'Radley', sans-serif;
+  font-size: 48px;
+}
+
+h4 {
+  font-size: 30px;
+}
+
 #card {
   padding: 20px;
-  height: 300px;
-  width: 250px;
+  height: 385px;
   border-style: solid;
   border-width:2px;
   -moz-border-radius: 15px;

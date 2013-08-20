@@ -1,367 +1,673 @@
 Card.delete_all
 Card.create!(
   group_id: '1',
-  term: 'vise',
-  meaning: 'vice; tool for holding work in place; clamping device',
+  term: 'aberrant',
+  meaning: 'Different from an accepted norm or group (usu. considerably so)',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vision',
-  meaning: 'eyesight; foresight; mental image produced by the imagination; experience of seeing the supernatural',
+  term: 'abet',
+  meaning: 'To urge, encourage or help someone or something (oft. an offense)',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'visionary',
-  meaning: 'produced by imagination; fanciful; mystical; showing foresight; N: one having foresight; one given to speculative impractical ideas',
+  term: 'ambivalent',
+  meaning: 'Feeling the coexistence of opposing emotions or attitudes',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vital',
-  meaning: 'full of life; animated; vibrant and lively; critical; of great importance; necessary to stay alive; of life; living; breathing; N. vitality; V. vitalize',
+  term: 'analogous',
+  meaning: 'Similar in such a way as to permit the comparison to something otherwise dissimilar',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vitiate',
-  meaning: 'spoil the effect of; make inoperative; corrupt morally',
+  term: 'anomalous',
+  meaning: 'Deviating from the usual or common order, form or rule',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vitreous',
-  meaning: 'of glass; pertaining to or resembling glass; V. vitrify: change into glass; CF. petrify',
+  term: 'antipathy',
+  meaning: 'Strong feelings of aversion',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vitriolic',
-  meaning: 'causing sharp pain to the mind; caustic; corrosive; sarcastic; of vitriol; N. vitriol: sulphuric acid (which burns flesh deeply); bitterly abusive expression; caustic expression; CF. glass',
+  term: 'autonomous',
+  meaning: 'Independent',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vituperative',
-  meaning: 'abusive; scolding; V. vituperate: berate; scold; rail against abusively',
+  term: 'avarice',
+  meaning: 'Greed',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vivacious',
-  meaning: 'lively or animated; sprightly',
+  term: 'axiom',
+  meaning: 'A self-evident truth',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vivid',
-  meaning: '(of light or color) bright and distinct; evoking lifelike mental images; Ex. vivid red hair/description',
+  term: 'banal',
+  meaning: 'Drearily commonplace; trite',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vivisection',
-  meaning: 'act of dissecting living animals',
+  term: 'bourgeois',
+  meaning: 'A member of the middle class; typical of the middle class',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vixen',
-  meaning: 'female fox; ill-tempered woman; CF. shrew',
+  term: 'canon',
+  meaning: 'A law or code of laws',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vociferous',
-  meaning: 'clamorous; noisy; V. vociferate: cry out loudly (when complaining)',
+  term: 'catharsis',
+  meaning: 'A purifying or figurative cleansing of the emotions',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vogue',
-  meaning: 'popular fashion; Ex. Jeans became the vogue.',
+  term: 'cogent',
+  meaning: 'Appealing to the intellect; compelling',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'volatile',
-  meaning: 'changeable; of a quickly changing nature (as of temper); mercurial; tending to violence; evaporating rapidly; Ex. volatile character/situation in the street',
+  term: 'collusion',
+  meaning: 'A secret agreement with deceitful intent',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'volition',
-  meaning: 'act of using one\'s will; act of making a conscious choice; Ex. She selected this dress of her own volition.',
+  term: 'condone',
+  meaning: 'To overlook, forgive or tolerate an offense without protest',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'volley',
-  meaning: 'simultaneous discharge of a number of shots; V.',
+  term: 'covenant',
+  meaning: 'Sacred pact',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'voluble',
-  meaning: 'fluent; talkative; glib; N. volubility',
+  term: 'credence',
+  meaning: 'Claim to legitimacy or trustworthiness',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'voluminous',
-  meaning: 'having great volume (as of a garment or container); bulky; large',
+  term: 'credulous',
+  meaning: 'Gullible',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'voluptuous',
-  meaning: 'sensual; of or giving sensual pleasure; indulging in sensual pleasures; Ex. voluptuous lines; Ex. voluptuous life of the Romans; N. voluptuary: voluptuous person',
+  term: 'dauntless',
+  meaning: 'Fearless',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'voodoo',
-  meaning: 'religion practiced chiefly in Haiti',
+  term: 'dearth',
+  meaning: 'A scarcity or lack of',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'voracious',
-  meaning: 'ravenous; eating large quantities of food; exceedingly eager; insatiable; Ex. voracious animal/reader',
+  term: 'defame',
+  meaning: 'To damage someone\'s or something\'s reputation',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vortex',
-  meaning: 'whirlwind; whirlpool; center of turbulence; predicament into which one is inexorably plunged',
+  term: 'delineate',
+  meaning: 'To sketch out or depict',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vouch',
-  meaning: 'give a personal guarantee; Ex. I can vouch for his integrity; N. voucher',
+  term: 'despot',
+  meaning: 'A ruler with absolute power',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vouchsafe',
-  meaning: 'grant condescendingly; guarantee; Ex. vouchsafe your fair return on your investment',
+  term: 'devout',
+  meaning: 'Devoted to religion',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'voyeur',
-  meaning: 'Peeping Tom; person who derives sexual gratification from observing the sexual acts of others',
+  term: 'disabuse',
+  meaning: 'To free from misconception',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vulgar',
-  meaning: 'of the common people; deficient in refinement; not refined; coarse; Ex. vulgar display of wealth; N. vulgarism: vulgarity; crudely indecent word; CF. vulgarian: vulgar person; boor; lout',
+  term: 'disparate',
+  meaning: 'Entirely dissimilar',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vulnerable',
-  meaning: 'susceptible to wounds or attack; N. vulnerability',
+  term: 'dissolution',
+  meaning: 'Decomposition into fragments or parts; debauchery',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vulpine',
-  meaning: 'like a fox; crafty',
+  term: 'distend',
+  meaning: 'To swell or stretch',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vulture',
-  meaning: 'carrion-eating birds',
+  term: 'divest',
+  meaning: 'To get rid of',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'vying',
-  meaning: 'contending; CF. vie',
+  term: 'dogmatic',
+  meaning: 'Characterized by an authoritative, arrogant assertion of principles that are unproved or can\'t be proofed',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'wade',
-  meaning: 'walk through a substance, such as water, that impedes movement',
+  term: 'eloquence',
+  meaning: 'Persuasive discourse',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'waffle',
-  meaning: 'speak equivocally about an issue; N.',
+  term: 'ennui',
+  meaning: 'Boredom',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'waft',
-  meaning: 'move gently (in air or in seas) by wind or waves; Ex. leaves wafting past the window',
+  term: 'enumerate',
+  meaning: 'To count (out); to list',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'wag',
-  meaning: 'shake repeatedly from side to side; Ex. The dog wagged its tail; N: humorous person; wit',
+  term: 'esoteric',
+  meaning: 'Meant for or understood by only a small group of people; particular to a small group; confidential',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'wage',
-  meaning: 'begin and continue (a war)',
+  term: 'extol',
+  meaning: 'To praise highly or exalt',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'waggish',
-  meaning: 'humorous; mischievous; tricky',
+  term: 'facetious',
+  meaning: 'Playfully jocular; humorous',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'waif',
-  meaning: 'homeless child or animal; Ex. waifs and strays',
+  term: 'fervor',
+  meaning: 'Great warmth and intensity of emotion; intense heat or passion',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'waive',
-  meaning: 'give up temporarily; yield; N. waiver: waiving a right or claim; document that waives a right or claim',
+  term: 'fickle',
+  meaning: 'Capricious',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'wake',
-  meaning: 'trail of ship or other object through water; path of something that has gone before; Ex. hunger followed in the wake of the war',
+  term: 'flout',
+  meaning: 'To show contempt for; to scorn',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'wallow',
-  meaning: 'roll in mud; indulge in; (of a ship) roll in a rough sea; become helpless; Ex. wallow in the mud/luxury',
+  term: 'forsake',
+  meaning: 'To give up or abandon',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'wan',
-  meaning: 'having a pale or sickly color; pallid',
+  term: 'gratuitous',
+  meaning: 'Unearned or unjustified; unnecessary; free',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'wanderlust',
-  meaning: 'strong longing to travel',
+  term: 'gregarious',
+  meaning: 'Sociable, outgoing',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'wane',
-  meaning: 'decrease in size or strength (after being full); grow gradually to an end; Ex. The moon waxes and wanes every month; N.',
+  term: 'harry',
+  meaning: 'To vex or annoy',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'wangle',
-  meaning: 'achieve by cleverness or trick; wiggle out; fake; Ex. She tried to wangle an invitation to the party.',
+  term: 'hedonism',
+  meaning: 'Pursuit of pleasure',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'wanton',
-  meaning: 'unrestrained; gratuitously cruel; willfully malicious; unchaste; sexually improper; promiscuous; Ex. wanton spending/killing; CF. having no just cause',
+  term: 'hypocritical',
+  meaning: 'Speaking contrary to one\'s true beliefs or actions',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'warble',
-  meaning: '(of a bird) sing; babble; N.',
+  term: 'impetuous',
+  meaning: 'Impulsive or rash',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'ward',
-  meaning: 'administrative division of a city; division in a hospital or prison; incompetent person placed under the protection of a guardian; V: guard; ward off: avert',
+  term: 'implicit',
+  meaning: 'Implied; not expressly stated',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'warp',
-  meaning: 'twist out of shape; N.',
+  term: 'incipient',
+  meaning: 'Beginning to exist or to appear',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'warrant',
-  meaning: 'justification; written order that serves as authorization (esp. a judicial writ); Ex. search/death warrant; V: justify; guarantee',
+  term: 'incontrovertible',
+  meaning: 'Undeniable or impossible to dispute',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'warranted',
-  meaning: 'justified; authorized',
+  term: 'incorrigible',
+  meaning: 'Incapable of being corrected or informed; difficult to control',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'warranty',
-  meaning: 'guarantee; assurance by seller',
+  term: 'indifferent',
+  meaning: 'Without bias',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'warren',
-  meaning: 'tunnels in which rabbits live; overcrowded living area; crowded conditions in which people live',
+  term: 'indomitable',
+  meaning: 'Unconquerable, refusing to yield',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'wary',
-  meaning: 'very cautious; watchful',
+  term: 'inimical',
+  meaning: 'Harmful in effect; hostile',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'wastrel',
-  meaning: 'waster; profligate',
+  term: 'insipid',
+  meaning: 'Tasteless; lacking stimulation or interest',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'waver',
-  meaning: 'move or swing back and forth; be uncertain or unsteady in decision or movement; Ex. wavering between accepting and refusing',
+  term: 'intractable',
+  meaning: 'Difficult to manage; stubborn',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'wax',
-  meaning: 'increase gradually (as the moon); grow',
+  term: 'intrepid',
+  meaning: 'Fearless',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'waylay',
-  meaning: 'ambush; lie in wait for and attack',
+  term: 'judicious',
+  meaning: 'Having or exhibiting sound judgment; prudent',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'wean',
-  meaning: 'accustom a baby not to nurse; accustom (the young of a mammal) to take nourishment other than by suckling; give up a cherished activity; cause to gradually leave (an interest or habit); Ex. wean oneself from cigarettes',
+  term: 'laudatory',
+  meaning: 'Expressing praise',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'weary',
-  meaning: 'tired after long work; V.',
+  term: 'levity',
+  meaning: 'Lightness of manner; frivolity',
   done: 'false'
 )
 Card.create!(
   group_id: '1',
-  term: 'weather',
-  meaning: 'pass safely through (a storm ',
+  term: 'lurid',
+  meaning: 'Gruesome; marked by sensation',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'magnanimous',
+  meaning: 'Courageously noble in mind and heart; generous or unselfish',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'magnate',
+  meaning: 'A powerful or influential person (esp. business)',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'misanthrope',
+  meaning: 'One who hates or mistrusts mankind',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'nascent',
+  meaning: 'Just born; emerging',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'nonplused',
+  meaning: 'In state of confusion, bewilderment or perplexity',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'noxious',
+  meaning: 'Harmful to one\'s health, mind or morals',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'paradigm',
+  meaning: 'An example that serves as a model or pattern',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'paragon',
+  meaning: 'A model of excellence; a peerless example',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'parsimonious',
+  meaning: 'Excessively sparing or frugal',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'paucity',
+  meaning: 'Smallness of number; fewness',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'pedantic',
+  meaning: 'Showing off one\'s bookish knowledge (in a negative manner)',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'penchant',
+  meaning: 'A definite liking; a strong inclination',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'piety',
+  meaning: 'Religious devotion; reverence',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'pious',
+  meaning: 'Religiously devout; marked by false devoutness',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'pragmatic',
+  meaning: 'Concerned with facts or actual occurrences; practical',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'pretext',
+  meaning: 'An excuse; an effort to conceal something',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'prevaricate',
+  meaning: 'To stray from or evade the truth; to lie or equivocate',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'prodigal',
+  meaning: 'Rashly or wastefully extravagant',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'prodigious',
+  meaning: 'Impressively great in size, force or extent; enormous',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'prodigy',
+  meaning: 'A person with exceptional talents or powers; an omen',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'profligate',
+  meaning: 'Recklessly wasteful',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'propriety',
+  meaning: 'Polite behavior',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'prosaic',
+  meaning: 'Lacking in imagination; dull',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'pundit',
+  meaning: 'A (supposedly) learned critic or expert',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'relegate',
+  meaning: 'To banish or exile',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'reprehensible',
+  meaning: 'Deserving blame',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'reproach',
+  meaning: 'To express disapproval; to blame',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'repudiate',
+  meaning: 'To reject the authority or validity of',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'reticent',
+  meaning: 'Restrained or reserved; reluctant or unwilling',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'retribution',
+  meaning: 'Punishment; reward',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'rhetoric',
+  meaning: 'The art of using language persuasively (or artistically); language that is insincere',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'sanctimonious',
+  meaning: 'Faking righteousness',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'sanction',
+  meaning: 'To approve authoritatively',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'secular',
+  meaning: 'Not specifically related to religion; occurring once in a century or from century to century',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'severance',
+  meaning: 'The act or condition of being severed; separation',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'stupefy',
+  meaning: 'To amaze or stun',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'stymie',
+  meaning: 'To thwart or stump',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'supercilious',
+  meaning: 'Feeling or showing haughty disdain',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'superfluous',
+  meaning: 'Beyond what is needed or required',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'tacit',
+  meaning: 'Silent; unstated or implied',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'tenuous',
+  meaning: 'Long and thin; slender or slight',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'terse',
+  meaning: 'Brief and to the point',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'transient',
+  meaning: 'Remaining in one place only a brief time; one that does so',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'ubiquitous',
+  meaning: 'Everywhere',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'untoward',
+  meaning: 'Not favorable; troublesome or adverse',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'urbane',
+  meaning: 'Polite, refined and often elegant in manner',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'veracity',
+  meaning: 'Truthfulness',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'vernacular',
+  meaning: 'The language of everyday people (as opposed to that of literary works)',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'vex',
+  meaning: 'To annoy, bother or harass',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'xenophobia',
+  meaning: 'Fear of hate of anything foreign (esp. people)',
+  done: 'false'
+)
+Card.create!(
+  group_id: '1',
+  term: 'zealot',
+  meaning: 'A person who is fanatically committed to an idea or cause',
   done: 'false'
 )
