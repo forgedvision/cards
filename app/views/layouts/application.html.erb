@@ -17,9 +17,15 @@
 
 <script>
   $(document).ready(function (){
+
     $("#meaning").hide();
+    
     $("#card").click(function () {
-      $("#meaning").show("fast");
+      if ($("#meaning").is(":hidden")) {
+        $("#meaning").show("fast");
+      } else {
+        window.location = '/';
+      }
     });
   });
 </script>
