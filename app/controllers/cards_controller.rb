@@ -10,7 +10,7 @@ class CardsController < ApplicationController
   # GET /cards/1
   # GET /cards/1.json
   def show
-    @card = Card.where(done: true).order("RANDOM()").first
+    @card = Card.where(done: false).order("RANDOM()").first
   end
 
   # GET /cards/new
