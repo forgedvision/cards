@@ -5,6 +5,11 @@
   <h4 id="meaning">
     <%= @card.meaning %>
   </h4>
+<%= form_for @card do |f| %>
+  <%= f.hidden_field :done, :value => true %>
+<% end %>
 </div>
- <a data-role="button" data-inline="true" data-theme="a" href="/" data-icon="check" data-iconpos="right">Done</a>
+
+<!-- <a data-role="button" data-inline="true" data-theme="a" href="/" data-icon="check" data-iconpos="right">Done</a>
  <a data-role="button" data-inline="true" data-theme="a" href="cards" data-icon="home" data-iconpos="left">Home</a>
+-->
