@@ -386,7 +386,7 @@ Card.create!(
 Card.create!(
   group_id: '1',
   term: 'defame',
-  meaning: 'To damage someone's or something's reputation',
+  meaning: 'To damage someone\'s or something\'s reputation',
   done: 'false'
 )
 Card.create!(
@@ -452,7 +452,7 @@ Card.create!(
 Card.create!(
   group_id: '1',
   term: 'discretion',
-  meaning: 'Ability to act sensibly; freedom to act on one's own',
+  meaning: 'Ability to act sensibly; freedom to act on one\'s own',
   done: 'false'
 )
 Card.create!(
@@ -506,7 +506,7 @@ Card.create!(
 Card.create!(
   group_id: '1',
   term: 'dogmatic',
-  meaning: 'Characterized by an authoritative, arrogant assertion of principles that are unproved or can't be proofed',
+  meaning: 'Characterized by an authoritative, arrogant assertion of principles that are unproved or can\'t be proofed',
   done: 'false'
 )
 Card.create!(
@@ -704,7 +704,7 @@ Card.create!(
 Card.create!(
   group_id: '1',
   term: 'hypocritical',
-  meaning: 'Speaking contrary to one's true beliefs or actions',
+  meaning: 'Speaking contrary to one\'s true beliefs or actions',
   done: 'false'
 )
 Card.create!(
@@ -962,7 +962,7 @@ Card.create!(
 Card.create!(
   group_id: '1',
   term: 'noxious',
-  meaning: 'Harmful to one's health, mind or morals',
+  meaning: 'Harmful to one\'s health, mind or morals',
   done: 'false'
 )
 Card.create!(
@@ -1016,7 +1016,7 @@ Card.create!(
 Card.create!(
   group_id: '1',
   term: 'pedantic',
-  meaning: 'Showing off one's bookish knowledge (in a negative manner)',
+  meaning: 'Showing off one\'s bookish knowledge (in a negative manner)',
   done: 'false'
 )
 Card.create!(
@@ -1136,7 +1136,7 @@ Card.create!(
 Card.create!(
   group_id: '1',
   term: 'profound',
-  meaning: 'Coming as if from the depths of one's being; deep',
+  meaning: 'Coming as if from the depths of one\'s being; deep',
   done: 'false'
 )
 Card.create!(
