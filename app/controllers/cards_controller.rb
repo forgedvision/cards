@@ -11,6 +11,8 @@ class CardsController < ApplicationController
   # GET /cards/1.json
   def show
     @card = Card.where(done: false).order("RANDOM()").first
+    @done = Card.where(done: true).count
+    @not_done = Card.where(done: false).count
   end
 
   # GET /cards/new
