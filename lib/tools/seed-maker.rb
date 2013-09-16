@@ -15,11 +15,14 @@
 ## )
 ##
 
+file = ARGV[0]
+group = ARGV[1]
+
 cards = []
 shuffled_cards = []
 Card = Struct.new(:term, :meaning)
 
-File.open("list-sample") do |file|
+File.open(file) do |file|
   file.each do |line|
     term, meaning = line.chomp.split("\t")
     cards << Card.new(term, meaning)
@@ -29,13 +32,13 @@ end
 shuffled_cards = cards.shuffle
 p shuffled_cards
 
-file = File.new("seeds.rb","w")
+file = File.new("seeds.rb","a")
 
-file.puts "Card.delete_all"
+#file.puts "Card.delete_all"
 
 cards.each {|card| 
   file.puts "Card.create!("
-  file.puts "  group_id: '1',"
+  file.puts "  group_id: '#{group}',"
   file.puts "  term: \'#{card.term}\',"
   file.puts "  meaning: \'#{card.meaning}\',"
   file.puts "  done: 'false'"

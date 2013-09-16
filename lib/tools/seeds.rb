@@ -1493,3 +1493,867 @@ Card.create!(
   meaning: 'A person who is fanatically committed to an idea or cause',
   done: 'false'
 )
+Card.create!(
+  group_id: '2',
+  term: 'abash',
+  meaning: 'To humiliate or embarrass',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'aberration',
+  meaning: 'Deviation from a proper or expected course',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'abeyance',
+  meaning: 'A state of temporary inaction; suspension',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'abide',
+  meaning: 'To be faithful to or endure',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'abhor',
+  meaning: 'To hate or detest',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'abstemious',
+  meaning: 'Characterized by eating or drinking in moderation',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'acumen',
+  meaning: 'Quickness, accuracy and keenness of judgment or insight',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'aegis',
+  meaning: 'Protection; sponsorship; shield of Athena',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'alacrity',
+  meaning: 'Cheerful willingness; speed or quickness',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'amalgamate',
+  meaning: 'To mix or blend together into a homogeneous body',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'anachronistic',
+  meaning: 'Out of historical order; old fashioned',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'anathema',
+  meaning: 'A curse or denunciation; one that is cursed or reviled',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'animus',
+  meaning: 'A feeling of animosity or ill-will',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'antipodal',
+  meaning: 'Exactly opposite',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'approbation',
+  meaning: 'Warm approval; praise',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'artless',
+  meaning: 'Naive or simple',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'ascetic',
+  meaning: 'Leading a life of self-denial and austerity (usu. for spiritual improvement)',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'assiduous',
+  meaning: 'Diligent, unceasing, persistent',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'belie',
+  meaning: 'To picture falsely or misrepresent',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'bellicose',
+  meaning: 'Warlike in manner',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'bucolic',
+  meaning: 'Rustic, pastoral, or relating to the countryside;',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'buttress',
+  meaning: 'A structure built against a wall for support or reinforcement; to support or reinforce',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'cachet',
+  meaning: 'A mark of authenticity',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'cacophony',
+  meaning: 'A harsh, discordant sound or combination of tones',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'callow',
+  meaning: 'Immature; inexperienced',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'capacious',
+  meaning: 'Spacious or roomy',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'capitulate',
+  meaning: 'To give up all resistance or surrender; to come to terms',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'castigate',
+  meaning: 'To punish severely; to criticize harshly',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'censure',
+  meaning: 'To criticize severely; an expression of disapproval',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'chagrin',
+  meaning: 'A keen feeling of mental unease from failure, disappointment or a disconcerting event',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'charlatan',
+  meaning: 'A quack or fraud',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'catholic',
+  meaning: 'Comprehensive or universal',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'chary',
+  meaning: 'Wary or cautious',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'coda',
+  meaning: 'A concluding passage (usu. of a musical movement or composition)',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'commensurate',
+  meaning: 'Corresponding in size or degree',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'compensatory',
+  meaning: 'Serving as a reimbursement, substitute of counterbalance',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'conciliatory',
+  meaning: 'Intended to generate good-will',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'conundrum',
+  meaning: 'A difficult or insoluble problem; a dilemma',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'deference',
+  meaning: 'Courteous respect; yielding to the wishes of another',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'deleterious',
+  meaning: 'Having a harmful effect; injurious',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'demur',
+  meaning: 'To object or delay',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'denigrate',
+  meaning: 'To speak ill of or attack the character of',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'deprecate',
+  meaning: 'To belittle or deplore',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'desiccate',
+  meaning: 'To dry out thoroughly',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'desultory',
+  meaning: 'Random; disconnected from that which precedes it',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'diatribe',
+  meaning: 'A bitter, abusive denunciation',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'dichotomy',
+  meaning: 'Division into two contradictory parts or opinions',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'didactic',
+  meaning: 'Intending to instruct (oft. morally); inclined to teach or moralize excessively',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'diffident',
+  meaning: 'Shy and timid',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'discrete',
+  meaning: 'Distinct; having distinct parts',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'dissonance',
+  meaning: 'A harsh, disagreeable combination of sounds; discord; conflict',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'efficacy',
+  meaning: 'Effectiveness',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'effigy',
+  meaning: 'A crude dummy; a likeness or image (esp. of a person)',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'effloresce',
+  meaning: 'To blossom or bloom',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'effrontery',
+  meaning: 'Brazen boldness; presumptuousness',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'elicit',
+  meaning: 'To bring or draw out (something latent)',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'emancipate',
+  meaning: 'To set free ownership or oppression; to liberate',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'endemic',
+  meaning: 'Particular to a specified country or people',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'enervate',
+  meaning: 'To weak or destroy the strength or nerve of',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'engender',
+  meaning: 'To produce or generate',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'evanescent',
+  meaning: 'Vanishing or likely to vanish like vapor',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'expedite',
+  meaning: 'To speed up the process',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'extemporize',
+  meaning: 'To do something off the top of your head; to improvise',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'foment',
+  meaning: 'To nurse to life or activity; to encourage',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'fulminate',
+  meaning: 'To issue a thunderous verbal attack; to explode or cause to explode',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'gainsay',
+  meaning: 'To declare false; to deny',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'germane',
+  meaning: 'Both pertaining and fitting; relevant',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'glib',
+  meaning: 'Performed with a natural, offhand ease; characterized by ease or fluidity that is superficial or insincere',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'halcyon',
+  meaning: 'Calm and peaceful; tranquil',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'harangue',
+  meaning: 'Speech or writing characterized by strong feelings; a tirade',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'hegemony',
+  meaning: 'Predominant influence of one country over others',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'histrionics',
+  meaning: 'Exaggerated emotional behavior',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'homogeneous',
+  meaning: 'Uniform in composition or structure',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'hyperbole',
+  meaning: 'A figure of speech in which exaggeration is used for effect',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'iconoclast',
+  meaning: 'One who attacks and seeks to overthrow popular ideas, practices or institutions',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'idiosyncratic',
+  meaning: 'Peculiar, unusual, or uniquely individual',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'impecunious',
+  meaning: 'Lacking money; penniless',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'impolitic',
+  meaning: 'Not wise',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'indigent',
+  meaning: 'Poor or needy',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'indolent',
+  meaning: 'Habitually lazy',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'ineffable',
+  meaning: 'Indescribable or unutterable',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'internecine',
+  meaning: 'Relating to a struggle within a nation or a group; mutually destructive',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'inure',
+  meaning: 'To habituate to something undesirable; to accustom',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'invective',
+  meaning: 'Denunciatory or abusive language; a verbal attack',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'inveigle',
+  meaning: 'To win over by flattery',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'irascible',
+  meaning: 'Easily angered',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'irresolute',
+  meaning: 'Lacking in resolution; indecisive',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'laconic',
+  meaning: 'Using very few words; terse',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'lassitude',
+  meaning: 'A state or feeling or weariness, diminished energy or listlessness',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'Machiavellian',
+  meaning: 'Cunningly deceitful',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'malinger',
+  meaning: 'To feign illness or incapacity in order to avoid duty or work; to shirk',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'malleable',
+  meaning: 'Capable of being shaped, influenced or controlled; pliant',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'miscreant',
+  meaning: 'A villain or evil-doer; a heretic',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'mitigate',
+  meaning: 'To moderate (a quality or condition) in force or intensity',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'nadir',
+  meaning: 'The lowest point',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'obfuscate',
+  meaning: 'To make so confused as to be difficult to understand',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'obtuse',
+  meaning: 'Lacking quickness of perception or intellect; blunt or dull',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'obviate',
+  meaning: 'To render unnecessary',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'odious',
+  meaning: 'Arousing strong dislike or displeasure; very unpleasant',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'officious',
+  meaning: 'Excessively eager to offer unwanted services or advice; informal or unofficial',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'opprobrium',
+  meaning: 'Scornful reproach or contempt',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'paean',
+  meaning: 'A song of joyful praise',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'pedagogue',
+  meaning: 'A teacher, esp. one who teaches in a dogmatic or pedantic manner',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'penury',
+  meaning: 'Extreme want or poverty',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'pernicious',
+  meaning: 'Deadly or destructive',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'perpetuity',
+  meaning: 'Forever; eternity',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'perspicacious',
+  meaning: 'Extremely perceptive',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'pervade',
+  meaning: 'To permeate',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'phlegmatic',
+  meaning: 'Of or relating to phlegm; unemotional',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'piquant',
+  meaning: 'Pleasantly pungent or tart in taste; charming or attractive',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'pith',
+  meaning: 'The essential or central part; strength, vigor or mettle',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'platitude',
+  meaning: 'A trite or banal statement expressed as if it were original or significant; lack of originality',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'plethora',
+  meaning: 'Excess; superabundance',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'polemic',
+  meaning: 'A controversial argument (esp. one attacking the opinion of another)',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'precipitate',
+  meaning: 'To fall or be thrown headfirst; to cause to happen; to condense and fall as rain or snow; moving rapidly and heedlessly',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'probity',
+  meaning: 'Complete and confirmed integrity; uprightness',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'profusion',
+  meaning: 'Abundance',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'proscribe',
+  meaning: 'To denounce or condemn; to forbid; to banish',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'protuberance',
+  meaning: 'Something that protrudes, such as a knob or a bulge',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'qualm',
+  meaning: 'A feeling of sickness or uneasiness',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'querulous',
+  meaning: 'Given to complaining; peevish',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'quixotic',
+  meaning: 'Idealistic without regard to practicality; capricious or impulsive',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'raconteur',
+  meaning: 'One who tells stories with skill and wit',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'recalcitrant',
+  meaning: 'Marked by stubborn resistance to and defiance of authority',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'redoubtable',
+  meaning: 'Arousing fear or awe; formidable',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'refractory',
+  meaning: 'Obstinately resistant to authority or control; resistant to heat',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'reprobate',
+  meaning: 'A morally unprincipled person; morally unprincipled',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'rhapsody',
+  meaning: 'Extreme enthusiasm, esp. in speech or writing; ecstasy',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'sanguinary',
+  meaning: 'Accompanied by or eager for bloodshed; bloody',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'sedulous',
+  meaning: 'Persevering in effort or endeavor',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'solicitous',
+  meaning: 'Anxious or concerned',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'sophistry',
+  meaning: 'Plausible but fallacious argumentation',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'specious',
+  meaning: 'Having the ring of plausibility but actually fallacious',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'spurious',
+  meaning: 'Not genuine; false',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'stolid',
+  meaning: 'Expressing little emotion or feeling; impassive',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'surfeit',
+  meaning: 'To feed or supply to excess, satiety or disgust; overindulgence',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'temerity',
+  meaning: 'Foolhardy disregard of danger; recklessness',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'torpid',
+  meaning: 'Dull; sluggish; inactive',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'tractable',
+  meaning: 'Easily managed or controlled',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'trenchant',
+  meaning: 'Cutting; incisive or keen; caustic',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'truculent',
+  meaning: 'Disposed to fight; pugnacious or belligerent',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'virulent',
+  meaning: 'Extremely infectious or poisonous; bitterly hostile',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'vitriolic',
+  meaning: 'Bitterly scathing or caustic',
+  done: 'false'
+)
+Card.create!(
+  group_id: '2',
+  term: 'vituperative',
+  meaning: 'Harshly abusive',
+  done: 'false'
+)
